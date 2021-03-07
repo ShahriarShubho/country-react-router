@@ -1,0 +1,11 @@
+.country-container{
+    text-align: center;
+    padding: 20px;
+    width: 500px;
+    margin-left: 350px;
+    background-color: lightgray;
+    box-shadow: 5px 10px #888888;;
+}
+.country-container img{
+    width:100%
+}
